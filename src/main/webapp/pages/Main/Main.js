@@ -1,4 +1,4 @@
-Application.$controller("test6534Controller", ["$scope", function ($scope) {
+Application.$controller("Test6534Controller",["$scope", function ($scope) {
 	"use strict";
 
 	/*
